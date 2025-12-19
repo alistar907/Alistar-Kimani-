@@ -23,3 +23,6 @@ I am a Level 6 Computer Science student at **Thika Technical Training Institute*
 *“Building scalable solutions to improve daily life.”*
 # Alistar-Kimani-
 Official Profile for Alistar Kimani 
+### 📊 My GitHub Stats
+![Alistar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlistarKimani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlistarKimani&layout=compact&theme=radical)
